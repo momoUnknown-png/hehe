@@ -1,0 +1,22 @@
+[
+   {
+      "directory" : "F:/Code/car/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/Code/car\" -I\"F:/Code/car/Board\" -I\"F:/Code/car/BSP\" -I\"F:/Code/car/BSP/inc\" -I\"F:/Code/car/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "F:/Code/car/BSP/src/bsp_tb6612.c"
+   },
+   {
+      "directory" : "F:/Code/car/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/Code/car\" -I\"F:/Code/car/Board\" -I\"F:/Code/car/BSP\" -I\"F:/Code/car/BSP/inc\" -I\"F:/Code/car/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "F:/Code/car/Board/board.c"
+   },
+   {
+      "directory" : "F:/Code/car/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/Code/car\" -I\"F:/Code/car/Board\" -I\"F:/Code/car/BSP\" -I\"F:/Code/car/BSP/inc\" -I\"F:/Code/car/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "F:/Code/car/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "F:/Code/car/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/Code/car\" -I\"F:/Code/car/Board\" -I\"F:/Code/car/BSP\" -I\"F:/Code/car/BSP/inc\" -I\"F:/Code/car/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "F:/Code/car/empty.c"
+   }
+]
